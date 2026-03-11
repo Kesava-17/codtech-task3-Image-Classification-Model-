@@ -1,4 +1,4 @@
-# codtech-task3-Image-Classification-Model-CNN
+# codtech-task3-Image-Classification-CNN
 # 🧠 Task 3 - CNN Based Image Classification | CodTech Internship
 
 This project implements a Convolutional Neural Network (CNN) using **TensorFlow** and **Keras** to classify handwritten digits from the **MNIST** dataset. It is part of the Task 3 submission for the CodTech AI/ML internship.
